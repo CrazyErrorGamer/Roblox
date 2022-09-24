@@ -1,0 +1,9 @@
+To replace the new death sound back to the iconic 'OOF!', simply open up the Roblox files by right-clicking on the desktop shortcut and clicking 'Properties'. 
+
+Then, click on 'Open File Location'. Navigate to 'content', then 'sounds'. Then, insert the 'uuhhh.mp3' into the folder.
+
+After you have done that, remove the file named 'ouch.ogg'.
+
+Then, rename 'uuhhh.mp3' to 'ouch.ogg'.
+
+Enjoy!
