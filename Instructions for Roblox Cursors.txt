@@ -1,0 +1,5 @@
+To replace the current Roblox cursors with the old ones, simply open up the Roblox files by right-clicking on the desktop icon, selecting 'Properties' and then 'Open File Location'.
+
+From there, navigate to 'content', then 'textures' and then 'cursors'. Then go to 'KeyboardMouse' and replace the textures in there with the old ones.
+
+Enjoy!
