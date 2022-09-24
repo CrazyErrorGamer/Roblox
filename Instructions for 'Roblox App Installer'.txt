@@ -1,0 +1,11 @@
+This applet allows you to to close out of Roblox without having to see the annoying Desktop App pop-up. 
+
+It's recommended that you make a shortcut to put in your Start Menu folder. 
+
+If you don't know how to do that, simply look it up. Once you have a shortcut in your Start Menu folder, you can pin it to your taskbar. 
+
+You could also use some sort of keybinder app to make the app run when you press a specific key.
+
+Since the app just does Alt+F4 twice for you, you'll need to open the applet and quickly click back onto Roblox.
+
+Feel free to distribute this anywhere you want.
